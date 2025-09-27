@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="orange">#E27D2D</color>  <!-- Header & Icons -->
+    <color name="black">#000000</color>  <!-- Title Text -->
+    <color name="gray">#6D6D6D</color>  <!-- Subtitle/Text -->
+    <color name="white">#FFFFFF</color>  <!-- Background -->
+
+    <!-- Task Checkbox Colors -->
+    <color name="checkbox_checked">#F4A261</color>  <!-- Checked box -->
+    <color name="checkbox_unchecked">#BDBDBD</color>  <!-- Unchecked box -->
+
+    <!-- Background & UI -->
+    <color name="background">#F9F9F9</color>  <!-- App Background -->
+</resources>

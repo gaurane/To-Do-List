@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android" tools:ignore="ExtraText">
+    <!-- Checked state -->
+    <item android:color="@color/checkbox_checked" android:state_checked="true"/>
+    <!-- Unchecked state -->
+    <item android:color="@color/checkbox_unchecked" android:state_checked="false"/>
+
+</selector>
